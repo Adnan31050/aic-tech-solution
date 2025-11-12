@@ -6,7 +6,7 @@
 <div class="mil-wrapper">
     <!-- banner -->
     <div class="mil-banner mil-top-space-0 custom-index-vedio">
-        <div class="swiper-container mil-banner-slideshow">
+        {{-- <div class="swiper-container mil-banner-slideshow">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="img/photo/one.jpg" class="mil-background-image" style="object-position: center"
@@ -21,14 +21,14 @@
                         data-swiper-parallax="-100" data-swiper-parallax-scale="1.1" alt="image">
                 </div>
             </div>
-        </div>
+        </div> --}}
 
-        {{-- <video autoplay loop muted playsinline class="hero-video">
-            <source src="img/projects/test-one.mov" type="video/mp4">
+        <video autoplay loop muted playsinline class="hero-video">
+            <source src="img/projects/aic-vedio.mp4" type="video/mp4">
             Your browser does not support the video tag.
-          </video> --}}
+          </video>
         
-        <div class="mil-overlay"></div>
+        {{-- <div class="mil-overlay"></div> --}}
 
         <div class="mil-banner-content">
             <div class="container">

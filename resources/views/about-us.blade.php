@@ -4,7 +4,6 @@
 
 <!-- wrapper -->
 <div class="mil-wrapper">
-
     <!-- banner -->
     <div class="mil-banner-sm mil-deep-bg custom-about-banner">
         <img src="img/projects/about-us-banner.jpeg" alt="background" class="mil-background-image">

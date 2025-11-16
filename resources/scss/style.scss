@@ -2601,7 +2601,7 @@ illustration
 }
 .mil-circle-illustration.mil-with-dots-2:after {
     content: "";
-    background-image: radial-gradient(rgb(18, 24, 32) 15%, transparent 0);
+    // background-image: radial-gradient(rgb(18, 24, 32) 15%, transparent 0);
     background-size: 20px 20px;
     width: 60px;
     height: 80px;
@@ -5417,6 +5417,10 @@ additional pages
     color: white;
 }
 
+.banner-text-color{
+    color: orange;
+}
+
 .hero-video {
     position: absolute; /* ✅ Video remains in background */
     top: 0;
@@ -5431,6 +5435,11 @@ additional pages
     height: 100%;
 }
 
-// .custom-index-vedio .mil-overlay{
-//     background-color: rgba(18, 24, 32, 0);
-// }
+.custom-index-vedio .mil-overlay{
+    background-color: rgba(18, 24, 32, 0);
+}
+
+.custom-about-img .mil-image-frame img{
+    height: 100%;
+    object-fit: fill;
+}

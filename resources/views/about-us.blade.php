@@ -62,10 +62,10 @@
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-5 mil-mb-60">
 
-                    <div class="mil-circle-illustration">
+                    <div class="mil-circle-illustration custom-about-img">
                         <div class="mil-circle-bg"></div>
                         <div class="mil-image-frame">
-                            <img src="img/projects/about-one.jpg" alt="img">
+                            <img src="img/projects/aic-overview.jpeg" alt="img">
                         </div>
                     </div>
 
@@ -245,7 +245,7 @@
                     <div class="mil-circle-illustration">
                         <div class="mil-circle-bg"></div>
                         <div class="mil-image-frame">
-                            <img src="img/faces/t-2.png" alt="img">
+                            <img src="img/projects/about-mission.jpeg" alt="img">
                         </div>
                     </div>
 

@@ -4,7 +4,7 @@
 
 <!-- banner -->
 <div class="mil-banner-sm mil-deep-bg">
-    <img src="img/deco/map.png" alt="background" class="mil-background-image">
+    <img src="img/projects/aic-banner.jpeg" alt="background" class="mil-background-image">
     <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
     <div class="mil-banner-content">
         <div class="container mil-relative">
@@ -12,7 +12,7 @@
                 <li><a href="home-1.html">Home</a></li>
                 <li><a href="service-1.html">Service</a></li>
             </ul> --}}
-            <h2 class="mil-uppercase">Your Complete Technology Partner for Seamless Business Growth</h2>
+            <h2 class="mil-uppercase banner-text-color">Your Complete Technology Partner <br> for Seamless Business Growth</h2>
         </div>
     </div>
 </div>

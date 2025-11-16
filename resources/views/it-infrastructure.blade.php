@@ -6,7 +6,7 @@
 
     <!-- banner -->
     <div class="mil-banner-sm mil-deep-bg">
-        <img src="img/deco/map.png" alt="background" class="mil-background-image">
+        <img src="img/projects/aic-banner.jpeg" alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
         <div class="mil-banner-content">
             <div class="container mil-relative">
@@ -14,7 +14,7 @@
                     {{-- <li><a href="home-1.html">Home</a></li>
                     <li><a href="service-1.html">Service</a></li> --}}
                 </ul>
-                <h2 class="mil-uppercase">IT Infrastructure & Cloud Services</h2>
+                <h2 class="mil-uppercase banner-text-color">IT Infrastructure & Cloud Services</h2>
             </div>
         </div>
     </div>
@@ -29,7 +29,7 @@
                     <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
                         <div class="mil-circle-bg"></div>
                         <div class="mil-image-frame">
-                            <img src="img/faces/t4.png" alt="img">
+                            <img src="img/projects/aic-empowering.jpeg" alt="img">
                         </div>
                     </div>
                 </div>
@@ -197,7 +197,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/blog/1.jpg" alt="project">
+                                <img src="img/projects/aic-it-project-two.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -215,7 +215,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/projects/2.jpg" alt="project">
+                                <img src="img/projects/aic-it-project.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -234,7 +234,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/projects/1.jpg" alt="project">
+                                <img src="img/projects/aic-it-project-six.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -253,7 +253,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/blog/3.jpg" alt="project">
+                                <img src="img/projects/aic-it-project-four.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -273,7 +273,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/blog/3.jpg" alt="project">
+                                <img src="img/projects/aic-it-project-five.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -293,7 +293,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/blog/3.jpg" alt="project">
+                                <img src="img/projects/aic-it-project-three.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -313,7 +313,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/blog/3.jpg" alt="project">
+                                <img src="img/projects/aic-it-project-eight.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -333,7 +333,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/blog/3.jpg" alt="project">
+                                <img src="img/projects/aic-it-project-nine.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -352,7 +352,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/blog/3.jpg" alt="project">
+                                <img src="img/projects/aic-it-project-seven.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">

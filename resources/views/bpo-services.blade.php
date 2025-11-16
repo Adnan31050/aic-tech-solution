@@ -6,7 +6,7 @@
 <div class="mil-wrapper">
     <!-- banner -->
     <div class="mil-banner-sm mil-deep-bg">
-        <img src="img/deco/map.png" alt="background" class="mil-background-image">
+        <img src="img/projects/aic-banner.jpeg" alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
         <div class="mil-banner-content">
             <div class="container mil-relative">
@@ -14,7 +14,7 @@
                     <li><a href="home-1.html">Home</a></li>
                     <li><a href="service-1.html">Solution</a></li>
                 </ul> --}}
-                <h2 class="mil-uppercase">Empowering Your Team from Anywhere</h2>
+                <h2 class="mil-uppercase banner-text-color">Empowering Your Team from Anywhere</h2>
             </div>
         </div>
     </div>
@@ -43,7 +43,7 @@
                 <div class="col-xl-6 mil-mb-30">
 
                     <div class="mil-project-cover mil-type-2">
-                        <img src="img/projects/aic-bpo-2.jpeg" alt="Project">
+                        <img src="img/projects/aic-bpo-5.jpeg" alt="Project">
                     </div>
 
                 </div>
@@ -60,7 +60,7 @@
                 <div class="col-xl-6 mil-mb-30">
 
                     <div class="mil-project-cover">
-                        <img src="img/photo/18.jpg" alt="Project">
+                        <img src="img/projects/aic-bpo-3.jpeg" alt="Project">
                     </div>
 
                 </div>
@@ -77,7 +77,7 @@
                 <div class="col-xl-6 mil-mb-30">
 
                     <div class="mil-project-cover">
-                        <img src="img/photo/19.jpg" alt="Project">
+                        <img src="img/projects/aic-bpo-4.jpeg" alt="Project">
                     </div>
 
                 </div>
@@ -91,11 +91,11 @@
                 </div>
             </div>
 
-            <div class="row justify-content-between align-items-center">
+            <div class="row flex-sm-row-reverse justify-content-between align-items-center">
                 <div class="col-xl-6 mil-mb-30">
 
                     <div class="mil-project-cover">
-                        <img src="img/photo/19.jpg" alt="Project">
+                        <img src="img/projects/aic-bpo-6.jpeg" alt="Project">
                     </div>
 
                 </div>
@@ -113,7 +113,7 @@
                 <div class="col-xl-6 mil-mb-30">
 
                     <div class="mil-project-cover">
-                        <img src="img/photo/19.jpg" alt="Project">
+                        <img src="img/projects/aic-bpo-2.jpeg" alt="Project">
                     </div>
 
                 </div>

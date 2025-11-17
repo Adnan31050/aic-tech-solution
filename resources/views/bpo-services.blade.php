@@ -14,13 +14,13 @@
                     <li><a href="home-1.html">Home</a></li>
                     <li><a href="service-1.html">Solution</a></li>
                 </ul> --}}
-                <h2 class="mil-uppercase banner-text-color">Empowering Your Team from Anywhere</h2>
+                <h2 class="mil-uppercase banner-text-color">Empowering Your Team from <br> Anywhere</h2>
             </div>
         </div>
     </div>
     <!-- banner end -->
 
-    <section class="mil-p-0-90">
+    <section class="mil-p-0-90 mt-5">
         <div class="container">
             <div class="row flex-sm-row-reverse justify-content-between align-items-center">
                 <div class="col-xl-6 mil-mb-30">
@@ -148,7 +148,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t6.png" alt="img">
+                                        <img src="img/projects/aic-customer.png" alt="img">
                                     </div>
                                 </div>
 
@@ -176,7 +176,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t1.png" alt="img">
+                                        <img src="img/projects/aic-technical.png" alt="img">
                                     </div>
                                 </div>
 
@@ -204,7 +204,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t2.png" alt="img">
+                                        <img src="img/projects/aic-helpdesk.png" alt="img">
                                     </div>
                                 </div>
 

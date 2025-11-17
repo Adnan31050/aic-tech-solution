@@ -124,8 +124,10 @@
                     <ul class="mil-simple-list mil-mb-15">
                         <li class="mil-light"><span class="mil-accent">+1 (469)</span>&nbsp;<span class="mil-light-soft">
                              501-1158</span></li>
+                             <a href="mailto:info@aictechsolution.com">
                         <li><span class="mil-accent">info@aictech</span><span class="mil-light mil-light-soft">
                             solution.com</span></li>
+                        </a>
                     </ul>
 
                 </div>

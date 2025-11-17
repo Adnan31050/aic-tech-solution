@@ -520,7 +520,7 @@
                     experience across various industries <span class="mil-accent"> We understand the complexities of
                         modern
                         IT</span> environments <span class="mil-accent">and</span> <br>ensure <span class="mil-accent">+
-                        optimal</span> performance for
+                        optimal</span> performance
                 </h3>
             </div>
         </div>
@@ -533,7 +533,7 @@
         <div class="container">
 
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">IT Services We Offer</span>
-            <h2 class="mil-mb-90">AICTEAH SOLUTION <span class="mil-accent">SKILLS</span></h2>
+            <h2 class="mil-mb-90">AIC TECH SOLUTION <span class="mil-accent">SKILLS</span></h2>
 
             <div class="row mil-grid-lines">
                 <div class="col-sm-6 col-md-4 col-lg-3">

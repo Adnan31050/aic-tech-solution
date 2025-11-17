@@ -38,7 +38,7 @@
                                 class="mil-accent">Gen</span></span> --}}
                         <h1 class="mil-mb-60">
                             <span class="mil-uppercase mil-light">
-                                Welcome to <span class="mil-font-3 mil-accent">AIC Tech Solution</span><br>
+                                Your Trusted Partner for Intelligent <span class="mil-accent">IT and Cloud Solutions</span>
                             </span>
                         </h1>
                         <div class="mil-flex-hori-center">
@@ -46,10 +46,7 @@
                                 <a href="{{route('contact-us')}}" class="mil-button mil-border mil-light"><span>Let’s
                                         Talk</span></a>
                             </div>
-                            <p class="mil-button-descr mil-light-soft custom-banner-text">And here's some amazingReliable, secure, and
-                                scalable IT services — from
-                                Cloud Infrastructure to Cybersecurity and Remote Support — designed to keep your
-                                business running smoothly every day.</p>
+                            <p class="mil-button-descr mil-light-soft custom-banner-text">Reliable, secure, and scalable IT services from Cloud Infrastructure to Cybersecurity and Remote Support all designed to keep your business running seamlessly every day.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -262,11 +259,10 @@
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">02</span>Cloud Services</h5>
-                            <p>Cloud Migration: Seamlessly migrating your existing infrastructure to cloud platforms
-                                like IONOS, AWS, and Azure.
-                                Cloud Backup Solutions: Secure, automated backup systems that ensure business
+                            <p>Cloud Migration: Seamlessly migrating your existing infrastructure to cloud platforms                                
+                                Cloud Backup Solutions Secure, automated backup systems that ensure business
                                 continuity.
-                                Cloud Security: Implementation of best practices for securing cloud-based applications
+                                Cloud Security Implementation of best practices for securing cloud-based applications
                                 and data storage..</p>
                         </div>
                     </div>
@@ -356,7 +352,7 @@
                             <h5 class="mil-mb-30"><span class="mil-accent">01</span> Cybersecurity Solutions</h5>
                             <p>Endpoint Protection: Deploying and managing endpoint security solutions to safeguard
                                 devices from malware and unauthorized access.
-                                Firewall Configuration & ManagementFirewall Management Setup, configuration, and
+                                Firewall Configuration & Management Firewall Management Setup, configuration, and
                                 security against threats
                             </p>
                         </div>

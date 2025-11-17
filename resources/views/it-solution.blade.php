@@ -127,7 +127,7 @@
                     <div class="mil-number-icon mil-lines mil-mb-30">
                         <span>06</span>
                     </div>
-                    <h4 class="mil-mb-15">Simplify Secure. Scale</h4>
+                    <h4 class="mil-mb-15">Simplify Secure Scale</h4>
                     <p>With AICTech Solution, you get more than an IT service — you get a complete technology partner
                         dedicated to your success. From setup to support, from cloud to security, we deliver all-in-one
                         solutions that evolve with your business.Let us handle your IT — so you can focus on innovation,
